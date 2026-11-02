@@ -1,0 +1,6 @@
+{
+  "name": "Driacom AI Voice Over Studio",
+  "description": "Studio Voice Over AI Pribadi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
